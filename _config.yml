@@ -2,7 +2,7 @@
 title: FTSF
 subtitle: The Fair Transition Standards Forum
 email: agrayso6@jhu.edu
-description: Toward fair and inclusive decarbonization.
+description: FTSF is a just transition forward standards body developing equity-centered, science-based frameworks and measuring impacts to prepare organizations and corporations for the 21st century and beyond.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fairtransitionstandardsforum.github.io/" # the base hostname & protocol for your site
 author:
@@ -38,6 +38,7 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
 
 
 
