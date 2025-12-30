@@ -62,7 +62,12 @@
 				}
 			}
 		}
-
+		
+		.logo img {
+			max-height: 50px;
+			width: auto;
+		}
+		
 		nav {
 			@include vendor('display', 'flex');
 			@include vendor('justify-content', 'flex-end');
@@ -248,5 +253,6 @@
 		}
 
 	}
+
 
 
