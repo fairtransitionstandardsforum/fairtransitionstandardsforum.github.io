@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Our Solutions
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'View how FTSF software guides environmental equity impact measurement and reporting.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
