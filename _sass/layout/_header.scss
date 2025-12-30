@@ -32,8 +32,8 @@
 			border: 0;
 			display: inline-block;
 			font-size: 0.8em;
-			height: 5%;
-			width: 5%;
+			height: auto;
+			width: auto;
 			line-height: inherit;
 			padding: 0 1.5em;
 
@@ -64,7 +64,7 @@
 		}
 		
 		.logo img {
-			max-height: 50px;
+			max-height: 100px;
 			width: auto;
 		}
 		
@@ -253,6 +253,7 @@
 		}
 
 	}
+
 
 
 
