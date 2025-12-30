@@ -33,7 +33,7 @@
 			display: inline-block;
 			font-size: 0.8em;
 			height: auto;
-			width: 25%;
+			width: auto;
 			line-height: inherit;
 			padding: 0 1.5em;
 
@@ -65,7 +65,7 @@
 		
 		.logo img {
 			max-height: 100px;
-			width: 25%;
+			width: auto;
 		}
 		
 		nav {
@@ -253,6 +253,7 @@
 		}
 
 	}
+
 
 
 
