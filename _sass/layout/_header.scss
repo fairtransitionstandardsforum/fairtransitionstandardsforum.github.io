@@ -67,6 +67,10 @@
 			max-height: 100px;
 			width: auto;
 		}
+
+		.button {
+			margin-left: auto;
+		}
 		
 		nav {
 			@include vendor('display', 'flex');
@@ -253,6 +257,7 @@
 		}
 
 	}
+
 
 
 
