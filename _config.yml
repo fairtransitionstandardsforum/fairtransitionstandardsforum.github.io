@@ -1,17 +1,17 @@
 # site settings
 title: FTSF
 subtitle: The Fair Transition Standards Forum
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: agrayso6@jhu.edu
+description: Toward fair and inclusive decarbonization.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fairtransitionstandardsforum.github.io/" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address:
+city: Baltimore
+state: MD
+zip_code: 21211
 country: United States of America
-phone: (716) 555-5555
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -38,6 +38,7 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
 
 
 
