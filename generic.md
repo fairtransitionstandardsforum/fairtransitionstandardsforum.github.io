@@ -2,7 +2,7 @@
 layout: post
 title: Our Guidance
 description: Read our Draft Industry Standards.
-image: assets/images/pic11.jpg
+image: assets/images/stone-ground-with-yellow-arrow-pointing-towards-crystal-bal.jpg
 nav-menu: true
 ---
 
